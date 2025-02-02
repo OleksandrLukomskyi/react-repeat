@@ -1,0 +1,15 @@
+.btn {
+   font: inherit;
+   color: #0e0101
+   
+}
+
+.primary {
+   color: #fff;
+   background-color: blue;
+}
+ 
+.secondary {
+   color: #fff;
+   background-color: orange;
+}

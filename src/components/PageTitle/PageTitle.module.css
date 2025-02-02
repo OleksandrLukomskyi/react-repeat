@@ -1,0 +1,16 @@
+.title {
+   font-size:50x;
+
+}
+
+.primary {
+   color: red;
+}
+
+.secondary {
+   color: blue;
+}
+
+.onSale {
+   text-decoration: dotted;
+}
